@@ -8,3 +8,6 @@
 - Database: MongoDB, MySQL
 
 🌱 Always learning and building
+📝 Currently exploring MERN. 
+🤝 Let's connect and learn together! 📚
+
