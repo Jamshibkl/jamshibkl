@@ -5,7 +5,7 @@
 💻 Web Developer:
 - Frontend: HTML, CSS, JavaScript, React
 - Backend: Node.js, Express, PHP
-- Database: MongoDB, MySQL
+- Database: MongoDB, MySQL, Firebase
 
 🌱 Always learning and building
 
