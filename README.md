@@ -1,5 +1,11 @@
 # 💫 About Me:
-🔭 Currently, I'm immersed in the world of frontend development, specializing in React.js.<br>👯 I'm eager to collaborate on exciting projects that push the boundaries of user interfaces and experiences.<br>🤝 Seeking help with mastering the intricacies of MERN stack development as I dive into the world of full-stack applications.<br>🌱 As a student, I'm continuously learning and exploring new technologies to stay at the forefront of the ever-evolving tech landscape.<br>💬 Feel free to ask me about anything related to React.js, frontend development, or my journey into MERN stack development.<br>⚡ Fun fact: I find inspiration in solving complex problems and turning ideas into elegant, functional code.<br>
+🔭 Frontend developer proficient in React.js.
+👯 Open to collaboration on interesting projects.
+🤝 Currently learning MERN stack development as a student.
+🌱 Always exploring and expanding my tech skills.
+💬 Ask me about React.js and frontend development.
+⚡ Fun fact: I enjoy turning ideas into functional code.
+<br>
 
 
 ## 🌐 Socials:
