@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 Frontend developer proficient in React.js.
-👯 Open to collaboration on interesting projects.
-🤝 Currently learning MERN stack development as a student.
-🌱 Always exploring and expanding my tech skills.
-💬 Ask me about React.js and frontend development.
+🔭 Frontend developer proficient in React.js.<br>
+👯 Open to collaboration on interesting projects.<br>
+🤝 Currently learning MERN stack development as a student.<br>
+🌱 Always exploring and expanding my tech skills.<br>
+💬 Ask me about React.js and frontend development.<br>
 ⚡ Fun fact: I enjoy turning ideas into functional code.
 <br>
 
